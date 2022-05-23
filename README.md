@@ -1,6 +1,5 @@
 ### Hi there 👋
 ##### I'm currently a student studying CS at Long Beach, my current coursework includes operating systems, comp sci theory, cybersecurity, and principles of programming languages.
-##### I don't know nearly enough about github yet.
 
 <!--
 **dkoroni/dkoroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
