@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### I'm currently a student studying CS at Long Beach, my current coursework includes operating systems, comp sci theory, cybersecurity, and principles of programming languages.
+##### I'm currently a student studying CS at Long Beach, my current coursework includes .NET 6.0, WCF, ASP.NET, LINQ, Cloud Computing, SQL, and NoSQL.
 
 <!--
 **dkoroni/dkoroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
