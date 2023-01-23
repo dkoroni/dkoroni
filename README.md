@@ -1,5 +1,6 @@
 ### Hi there 👋
-##### I'm currently a student studying CS at Long Beach, my current coursework includes .NET 6.0, WCF, ASP.NET, LINQ, Cloud Computing, SQL, and NoSQL.
+##### I'm currently a student studying CS at Long Beach, my current coursework includes Machine Learning and AI. 
+##### Working on the Hubba single-page app with my peers in DevelopmentHellaHell.
 
 <!--
 **dkoroni/dkoroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
