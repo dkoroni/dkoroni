@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##### I'm currently a senior studying CS at Long Beach, interning at SoCal Edison. 
-##### Check out Hubba, a single-page application website I made with my peers in DevelopmentHellaHell.
+##### Check out the [Hubba](https://github.com/DevelopmentHellaHell/SeniorProject) repository, a single-page application website I made with my peers in DevelopmentHellaHell.
 
 <!--
 **dkoroni/dkoroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
