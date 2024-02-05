@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### I'm currently a senior studying CS at Long Beach, interning at SoCal Edison. 
+##### I earned my Bachelor's degree in Computer Science at Long Beach University, currently interning at SoCal Edison since May 2023. 
 ##### Check out the [Hubba](https://github.com/DevelopmentHellaHell/SeniorProject) repository, a single-page application website I made with my peers in DevelopmentHellaHell.
 
 <!--
